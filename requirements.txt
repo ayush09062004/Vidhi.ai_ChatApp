@@ -1,0 +1,5 @@
+huggingface_hub==0.25.2
+gradio
+duckduckgo_search
+PyPDF2
+groclake==0.1.14
