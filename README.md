@@ -1,6 +1,6 @@
-# Vidhi.ai - Indian Legal Assistance ChatBOT
+# Vidhi.ai - Indian Legal Assistance AI Agent
 
-Welcome to **Vidhi.ai**, a legal education and assistance chatbot designed to make legal information accessible to everyone in India. This chatbot is deployed using **Gradio** on **Hugging Face Spaces** and provides a user-friendly interface for interacting with the legal assistance system.
+Welcome to **Vidhi.ai**, a legal education and assistance agent designed to make legal information accessible to everyone in India. This chatbot is deployed using **Gradio** on **Hugging Face Spaces** and provides a user-friendly interface for interacting with the legal assistance system.
 
 ## Features
 
@@ -57,7 +57,7 @@ You can clone the repository using either HTTPS or SSH.
 
 ## Usage
 
-Once you have cloned the repository, you can run the Gradio app locally to interact with the chatbot.
+Once you have cloned the repository, you can run the Gradio app locally to interact with the agent.
 
 1. Navigate to the project directory:
    ```bash
@@ -74,7 +74,7 @@ Once you have cloned the repository, you can run the Gradio app locally to inter
    python app.py
    ```
 
-4. Open your web browser and go to `http://127.0.0.1:7860` to interact with the chatbot.
+4. Open your web browser and go to `http://127.0.0.1:7860` to interact with the agent.
 
 ## Contributing
 
@@ -87,12 +87,12 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Acknowledgments
 
 - **Gradio** for providing an easy-to-use interface for deploying machine learning models.
-- **Hugging Face Spaces** for hosting the chatbot.
+- **Hugging Face Spaces** for hosting the agent.
 - The open-source community for their continuous support and contributions.
 
 ## Contact
 
-For any questions or feedback, feel free to reach out to [Ayush Raj: ayush.raj.bme22@iitbhu.ac.in).
+For any questions or feedback, feel free to reach out to Ayush Raj:(ayush.raj.bme22@iitbhu.ac.in).
 
 ---
 
