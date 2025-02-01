@@ -1,7 +1,7 @@
 # Vidhi.ai - Indian Legal Assistance AI Agent
 
 Welcome to **Vidhi.ai**, a legal education and assistance agent designed to make legal information accessible to everyone in India. This chatbot is deployed using **Gradio** on **Hugging Face Spaces** and provides a user-friendly interface for interacting with the legal assistance system.
--Live Website: https://ayush09062004.github.io/Vidhi.ai/ 
+- **Live Website**: https://ayush09062004.github.io/Vidhi.ai/ 
 
 ## Features
 
